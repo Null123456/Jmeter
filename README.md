@@ -107,7 +107,8 @@ Rame-Up Period(in seconds):表示JMeter每隔多少秒发动一次，如果设�
 
 聚合报告会显示压测的结果。主要观察Samples、Average、error、Throughput。
 
-Samples:表示一共发出的请求数
+        Samples:表示一共发出的请求数
+
 	Average：平均响应时间，默认情况下是单个Request的平均响应时间（ms）
   
 	Error%:测试出现的错误请求数量百分比。若出现错误就要看服务端的日志，配合开发查找定位原因
